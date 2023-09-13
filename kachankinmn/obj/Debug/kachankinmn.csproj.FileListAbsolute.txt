@@ -1,0 +1,10 @@
+C:\Users\Mefodii Kachankin\source\repos\kachankinmn\bin\Debug\kachankinmn.exe.config
+C:\Users\Mefodii Kachankin\source\repos\kachankinmn\bin\Debug\kachankinmn.exe
+C:\Users\Mefodii Kachankin\source\repos\kachankinmn\bin\Debug\kachankinmn.pdb
+C:\Users\Mefodii Kachankin\source\repos\kachankinmn\obj\Debug\kachankinmn.csproj.AssemblyReference.cache
+C:\Users\Mefodii Kachankin\source\repos\kachankinmn\obj\Debug\kachankinmn.Form1.resources
+C:\Users\Mefodii Kachankin\source\repos\kachankinmn\obj\Debug\kachankinmn.Properties.Resources.resources
+C:\Users\Mefodii Kachankin\source\repos\kachankinmn\obj\Debug\kachankinmn.csproj.GenerateResource.cache
+C:\Users\Mefodii Kachankin\source\repos\kachankinmn\obj\Debug\kachankinmn.csproj.CoreCompileInputs.cache
+C:\Users\Mefodii Kachankin\source\repos\kachankinmn\obj\Debug\kachankinmn.exe
+C:\Users\Mefodii Kachankin\source\repos\kachankinmn\obj\Debug\kachankinmn.pdb
